@@ -37,7 +37,7 @@ a
     border-bottom-color: black;
 }
 
-ul>li
+.task-container>li
 {
     font-size: 1.3em;
     display: inline;
