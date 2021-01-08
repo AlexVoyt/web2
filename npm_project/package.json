@@ -1,0 +1,14 @@
+{
+  "name": "npm_project",
+  "version": "1.0.0",
+  "description": "NPM homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey",
+  "license": "ISC",
+  "dependencies": {
+    "colorette": "^1.2.1"
+  }
+}
