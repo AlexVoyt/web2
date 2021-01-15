@@ -1,0 +1,35 @@
+#game-field
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 20% 20%;
+}
+
+.mole
+{
+    display: none;
+    height: 250px;
+    width: 300px;
+}
+
+.cell
+{
+    height: 250px;
+}
+/*
+
+#endgame-screen
+{
+    display: none;
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    top: 0px;
+    left: 0px;
+}
+*/
